@@ -1,0 +1,8 @@
+@mixin grid-areas {
+    grid-template-areas:
+        'top'
+        'about'
+        'exp'
+        'edu'
+        'github';
+}
